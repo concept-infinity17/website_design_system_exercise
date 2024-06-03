@@ -1,0 +1,79 @@
+body {
+    font-family: Kanit;
+    font-style: black;
+    background-color: white;
+    margin: 0;
+    text-align: center;
+}
+
+h1{
+    margin: 10px;
+    font-size: 40px;
+    word-spacing: 30px;
+    letter-spacing: 5px;
+}
+
+section{
+    text-align: center;
+    margin: 40px 20px;
+    padding: 5px;
+    border: 2px solid #FAA97E;
+    border-radius: 10px;
+    background-color: #f0f0f0;
+    font-family: "Quicksand";
+}
+
+.container{
+    display: flex;
+    align-items: flex-start;
+}
+
+.color-box {
+    text-align: center;
+    line-height: 2;
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    width: 300px;
+    border: 1px solid #e0e0e0;
+    color: white;
+}
+
+
+#licorice{
+    background-color: #130303;
+}
+
+#black-bean{
+    background-color: #2D080A;
+}
+
+#burnt-umber{
+    background-color: #7c3626;
+}
+
+#pumpkin{
+    background-color: #f5853f;
+}
+
+#pale-dogwood{
+    background-color: #FAA97E;
+}
+
+.font{
+    flex: 1;
+}
+
+#Kanit{
+    font-family: "Kanit";
+    font-size: 20px;
+}
+
+#Kanit p {
+    font-family: Kanit;
+}
+
+#Quicksand{
+    font-size: 20px;
+}
